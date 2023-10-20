@@ -1,0 +1,2 @@
+CREATE LOGIN amine WITH PASSWORD = 'admin';
+CREATE USER amine FOR LOGIN amine;
